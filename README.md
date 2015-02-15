@@ -1,4 +1,5 @@
 I dedicate this application for my best friend, Robert Niemiec. Thanks for everything :)
+
 Aplikacja jest dedykowana mojemu najlepszemu i prawdziwemu przyjacielowi, Robertowi Niemcowi. Dzięki za wszystko :)
 
 
